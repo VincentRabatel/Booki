@@ -168,8 +168,6 @@ nav {
 }
 
 /************************** HEADLINES **************************/
-
-
 .headline-title {
     margin-top: 30px;
     margin-bottom: 8px;
@@ -179,6 +177,7 @@ nav {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
 
 /************************** SEARCHBAR **************************/
 .searchbar-form {
@@ -243,6 +242,8 @@ nav {
     border-radius: 15px 0px 0px 15px;
 
     padding: 0;
+
+    cursor: pointer;
 }
 
 .right .searchbar-icon-input {
@@ -298,6 +299,8 @@ nav {
     text-align: center;
     font-size: 18px;
     font-weight: 700;
+
+    cursor: pointer;
 }
 
 /********************** Filters **********************/
@@ -331,6 +334,8 @@ nav {
 
     border: 2px solid #D9D9D9;
     border-radius: 25px;
+    
+    cursor: pointer;
 
     margin-right: 21.5px;
 }
